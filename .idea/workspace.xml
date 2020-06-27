@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="19ca1a06-551d-4e06-8c0c-32d60e0f5fd2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="xielc1.edit" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\tool\apache-maven-3.6.2\repo" />
+        <option name="mavenHome" value="D:/tool/apache-maven-3.6.2" />
+        <option name="userSettingsFile" value="D:\tool\apache-maven-3.6.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UWI9RX3peGpags4l2GlZk3xOth" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.xielc1.group.open.edit.app.controller" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\workplace\xielc1.edit\open-edit-app\src\main\resources\templates\author" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.OpenEditAppApplication (1)">
+    <configuration name="AuthorDao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xielc1.group.open.edit.dao.impl.AuthorDao" />
+      <module name="open-edit-dao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xielc1.group.open.edit.dao.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AuthorServiceImpl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xielc1.group.open.edit.service.impl.AuthorServiceImpl" />
+      <module name="open-edit-impl" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xielc1.group.open.edit.service.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OpenEditAppApplicationTests.contextLoads (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="open-edit-app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xielc1.group.open.edit.app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.xielc1.group.open.edit.app" />
+      <option name="MAIN_CLASS_NAME" value="com.xielc1.group.open.edit.app.OpenEditAppApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OpenEditAppApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="open-edit-app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xielc1.open.edit.app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.xielc1.open.edit.app" />
+      <option name="MAIN_CLASS_NAME" value="com.xielc1.open.edit.app.OpenEditAppApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OpenEditAppApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="open-edit-app" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xielc1.group.open.edit.app.OpenEditAppApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AuthorDao" />
+        <item itemvalue="Application.AuthorServiceImpl" />
+        <item itemvalue="JUnit.OpenEditAppApplicationTests.contextLoads (1)" />
+        <item itemvalue="JUnit.OpenEditAppApplicationTests.contextLoads" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Finished" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="19ca1a06-551d-4e06-8c0c-32d60e0f5fd2" name="Default Changelist" comment="" />
+      <created>1575465772725</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575465772725</updated>
+      <workItem from="1575465776139" duration="3611000" />
+      <workItem from="1575470197761" duration="3785000" />
+      <workItem from="1575772073546" duration="7709000" />
+      <workItem from="1575784371895" duration="8651000" />
+      <workItem from="1575802966376" duration="4420000" />
+      <workItem from="1575896316971" duration="7133000" />
+      <workItem from="1575981810782" duration="2919000" />
+      <workItem from="1576069988140" duration="8162000" />
+      <workItem from="1576395111911" duration="11337000" />
+      <workItem from="1576674953936" duration="10051000" />
+      <workItem from="1576996061067" duration="1557000" />
+      <workItem from="1577104383520" duration="1827000" />
+      <workItem from="1577802257769" duration="54000" />
+      <workItem from="1593268482185" duration="846000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="574" y="117" key="#com.intellij.ide.util.MemberChooser" timestamp="1593268703700">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="574" y="117" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1593268703700" />
+    <state width="1044" height="229" key="GridCell.Tab.0.bottom" timestamp="1593269707216">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1044" height="229" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1593269707216" />
+    <state width="1044" height="229" key="GridCell.Tab.0.center" timestamp="1593269707216">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1044" height="229" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1593269707216" />
+    <state width="1044" height="229" key="GridCell.Tab.0.left" timestamp="1593269707216">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1044" height="229" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1593269707216" />
+    <state width="1044" height="229" key="GridCell.Tab.0.right" timestamp="1593269707216">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1044" height="229" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1593269707216" />
+    <state width="1044" height="229" key="GridCell.Tab.1.bottom" timestamp="1593269707216">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1044" height="229" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1593269707216" />
+    <state width="1044" height="229" key="GridCell.Tab.1.center" timestamp="1593269707216">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1044" height="229" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1593269707216" />
+    <state width="1044" height="229" key="GridCell.Tab.1.left" timestamp="1593269707216">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1044" height="229" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1593269707216" />
+    <state width="1044" height="229" key="GridCell.Tab.1.right" timestamp="1593269707216">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1044" height="229" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1593269707216" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/open-edit-impl/src/main/java/com/xielc1/group/open/edit/service/impl/AuthorServiceImpl.java</url>
+          <line>135</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

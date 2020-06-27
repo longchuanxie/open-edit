@@ -1,0 +1,4 @@
+com\xielc1\group\open\edit\dao\domain\Author.class
+com\xielc1\group\open\edit\dao\impl\AuthorDao.class
+com\xielc1\group\open\edit\dao\domain\Comment.class
+com\xielc1\group\open\edit\dao\domain\Blog.class
